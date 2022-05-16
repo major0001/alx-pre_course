@@ -1,1 +1,1 @@
-My Second Readme
+go hard or go home
